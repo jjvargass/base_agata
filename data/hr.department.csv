@@ -1,0 +1,14 @@
+id,company_id/id,name,parent_id/id
+base_agata.hr_department_1,base.main_company,Gerencia General,
+base_agata.hr_department_2,base.main_company,Oficina Jefe De Oficina Asesoría Jurídica,base_agata.hr_department_1
+base_agata.hr_department_3,base.main_company,Oficina Asesora De Comunicaciones,base_agata.hr_department_1
+base_agata.hr_department_4,base.main_company,Gerencia Comercial,base_agata.hr_department_1
+base_agata.hr_department_5,base.main_company,Gerencia Estratégica De Datos,base_agata.hr_department_1
+base_agata.hr_department_6,base.main_company,Gerencia Pmo,base_agata.hr_department_1
+base_agata.hr_department_7,base.main_company,Gerencia de Asuntos Corporativos,base_agata.hr_department_1
+base_agata.hr_department_8,base.main_company,Dirección de Tecnologia,base_agata.hr_department_5
+base_agata.hr_department_9,base.main_company,Dirección de Especialista De Negocios,base_agata.hr_department_5
+base_agata.hr_department_10,base.main_company,Dirección de Gobierno De Datos,base_agata.hr_department_5
+base_agata.hr_department_11,base.main_company,Dirección de Desarrollo De Datos Y Analítica,base_agata.hr_department_5
+base_agata.hr_department_12,base.main_company,Dirección de Gestión Empresarial,base_agata.hr_department_7
+base_agata.hr_department_13,base.main_company,Dirección de Planeacion Y Gestion De Riesgo,base_agata.hr_department_7

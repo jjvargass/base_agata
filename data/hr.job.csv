@@ -1,0 +1,56 @@
+id,name,department_id/id
+base_agata.hr_job_1,Gerente General,base_agata.hr_department_1
+base_agata.hr_job_2,Asesor de Ecosistemas,base_agata.hr_department_1
+base_agata.hr_job_3,Asesor de Estrategia,base_agata.hr_department_1
+base_agata.hr_job_4,Auditor Interno,base_agata.hr_department_1
+base_agata.hr_job_5,Jefe de Oficina Asesora Jurídica,base_agata.hr_department_1
+base_agata.hr_job_6,Abogado,base_agata.hr_department_2
+base_agata.hr_job_7,Oficial de Cumplimineto,base_agata.hr_department_2
+base_agata.hr_job_8,Jefe de Oficina Asesora de Comunicaciones,base_agata.hr_department_3
+base_agata.hr_job_9,Diseñador Gráfico y Web Máster,base_agata.hr_department_3
+base_agata.hr_job_10,Profesional de Comunicaciones ,base_agata.hr_department_3
+base_agata.hr_job_11,Ejecutivo de Contenidos,base_agata.hr_department_3
+base_agata.hr_job_12,Gerente Comercial,base_agata.hr_department_4
+base_agata.hr_job_13,Ejecutivo Comercial Público,base_agata.hr_department_4
+base_agata.hr_job_14,Ejecutivo Comercial Producto Privado,base_agata.hr_department_4
+base_agata.hr_job_15,Asesor Preventa,base_agata.hr_department_4
+base_agata.hr_job_16,Gerente Estratégico de Datos,base_agata.hr_department_5
+base_agata.hr_job_17,Director de Tecnologia ,base_agata.hr_department_5
+base_agata.hr_job_18,Director Especialista de Negocios ,base_agata.hr_department_5
+base_agata.hr_job_19,Director de Gobierno de de Datos,base_agata.hr_department_5
+base_agata.hr_job_20,Director de Desarrollo de Datos y Analítica,base_agata.hr_department_5
+base_agata.hr_job_21,Arquitecto de Infraestructura Senior ,base_agata.hr_department_8
+base_agata.hr_job_22,Ingeniero Cloud Infreaestructura,base_agata.hr_department_8
+base_agata.hr_job_23,Gestor de Operaciones TI,base_agata.hr_department_8
+base_agata.hr_job_24,Arquitecto de Seguridad Senior ,base_agata.hr_department_8
+base_agata.hr_job_25,Ingeniero Cloud Seguridad,base_agata.hr_department_8
+base_agata.hr_job_26,Ingeniero en SOC y NOC,base_agata.hr_department_8
+base_agata.hr_job_27,Arquitecto de Datos Senior ,base_agata.hr_department_9
+base_agata.hr_job_28,Arquitecto de Datos Junior,base_agata.hr_department_9
+base_agata.hr_job_29,Arquitecto de Soluciones,base_agata.hr_department_9
+base_agata.hr_job_30,Documentador,base_agata.hr_department_10
+base_agata.hr_job_31,Gestor de Gobierno de Datos,base_agata.hr_department_10
+base_agata.hr_job_32,Cientificos de Datos,base_agata.hr_department_11
+base_agata.hr_job_33,Desarrollador de Software Senior,base_agata.hr_department_11
+base_agata.hr_job_34,Desarrollador de Software Junior,base_agata.hr_department_11
+base_agata.hr_job_35,Ingeniero de Datos Senior ,base_agata.hr_department_11
+base_agata.hr_job_36,Ingeniero de Datos Junior ,base_agata.hr_department_11
+base_agata.hr_job_37,Ingeniero DevOps,base_agata.hr_department_11
+base_agata.hr_job_38,QA Datos Senior,base_agata.hr_department_11
+base_agata.hr_job_39,QA Datos Junior,base_agata.hr_department_11
+base_agata.hr_job_40,Diseñador UX – UI,base_agata.hr_department_11
+base_agata.hr_job_41,Product Owner,base_agata.hr_department_6
+base_agata.hr_job_42,Scrum Master,base_agata.hr_department_6
+base_agata.hr_job_43,Documentador,base_agata.hr_department_6
+base_agata.hr_job_44,Gestor PO,base_agata.hr_department_6
+base_agata.hr_job_45,Director de Gestion Empresarial,base_agata.hr_department_7
+base_agata.hr_job_46,Director de Planeación y Gestión de Riesgos,base_agata.hr_department_7
+base_agata.hr_job_47,Generalista de RRHH,base_agata.hr_department_12
+base_agata.hr_job_48,Gestor Contable y de Nómina,base_agata.hr_department_12
+base_agata.hr_job_49,Gestor Financiero,base_agata.hr_department_12
+base_agata.hr_job_50,Gestor Administrativo,base_agata.hr_department_12
+base_agata.hr_job_51,Gestor de Compras,base_agata.hr_department_12
+base_agata.hr_job_52,Analista de Compras,base_agata.hr_department_12
+base_agata.hr_job_53,Gestor de Politicas y Lineamientos,base_agata.hr_department_13
+base_agata.hr_job_54,Oficial de Seguridad de la Información,base_agata.hr_department_13
+base_agata.hr_job_55,Gestor de Estrategia y Arquitectura Ciberseguridad ,base_agata.hr_department_13
