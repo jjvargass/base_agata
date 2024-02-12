@@ -1,0 +1,42 @@
+<odoo>
+  <data>
+
+    <menuitem
+        id="base_agata.nemu_agata_reportes"
+        name="Reportes AGATA"
+        parent="hr.menu_hr_root"
+        groups="hr.group_hr_user"
+        sequence="100"/>
+        
+          <menuitem
+              id="base_agata.sub_nemu_agata_reportes"
+              name="Certificados Laboral"
+              parent="base_agata.nemu_agata_reportes"
+              groups="hr.group_hr_user"
+              sequence="10"/>
+
+          <menuitem
+              id="base_agata.act_menu_hr_department_tree"
+              name="Certificado 01"
+              parent="base_agata.sub_nemu_agata_reportes"
+              groups="hr.group_hr_user"
+              sequence="4"
+              action="base_agata.action_window"/>
+
+          <menuitem
+              id="base_agata.sub_nemu_agata_reportes_02"
+              name="Certificados Laboral 02"
+              parent="base_agata.nemu_agata_reportes"
+              groups="hr.group_hr_user"
+              sequence="20"/>
+
+          <menuitem
+              id="base_agata.act_menu_hr_department_tree_02"
+              name="Certificado 02"
+              parent="base_agata.sub_nemu_agata_reportes_02"
+              groups="hr.group_hr_user"
+              sequence="4"
+              action="base_agata.action_window_02"/>
+
+  </data>
+</odoo>

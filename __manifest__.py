@@ -29,6 +29,7 @@
     'data': [
         'security/ir.model.access.csv',
         'views/views.xml',
+        'views/hr_view.xml',
         'views/templates.xml',
         'data/hr.department.csv',
         'data/hr.job.csv',
