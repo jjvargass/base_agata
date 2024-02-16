@@ -27,10 +27,8 @@
 
     # always loaded
     'data': [
-        'security/ir.model.access.csv',
-        'views/views.xml',
-        'views/hr_view.xml',
-        'views/templates.xml',
+        #'security/ir.model.access.csv',
+        #'views/hr_view.xml',
         'data/hr.department.csv',
         'data/hr.job.csv',
     ],

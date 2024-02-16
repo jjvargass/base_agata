@@ -21,7 +21,7 @@
               parent="base_agata.sub_nemu_agata_reportes"
               groups="hr.group_hr_user"
               sequence="4"
-              action="base_agata.action_window"/>
+              action="base_agata.act_window"/>
 
           <menuitem
               id="base_agata.sub_nemu_agata_reportes_02"
@@ -36,7 +36,7 @@
               parent="base_agata.sub_nemu_agata_reportes_02"
               groups="hr.group_hr_user"
               sequence="4"
-              action="base_agata.action_window_02"/>
+              action="base_agata.act_window_02"/>
 
   </data>
 </odoo>

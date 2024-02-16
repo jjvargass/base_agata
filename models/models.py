@@ -1,14 +1,13 @@
 # -*- coding: utf-8 -*-
 
-from odoo import models, fields, api
+# from odoo import models, fields, api
 
-class base_agata(models.Model):
-    _name = 'base_agata.base_agata'
-    _description = 'base_agata.base_agata'
+# class base_agata(models.Model):
+#     _name = 'base_agata.base_agata'
+#     _description = 'base_agata.base_agata'
 
-    name = fields.Char()
-    value = fields.Integer()
-
+#     name = fields.Char()
+#     value = fields.Integer()
 #     value2 = fields.Float(compute="_value_pc", store=True)
 #     description = fields.Text()
 #
