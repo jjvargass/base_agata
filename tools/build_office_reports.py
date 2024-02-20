@@ -49,7 +49,12 @@ def create_office_reports(self, dict_data, name_doc_download, format_output, nam
 
     # Convertir Reporte a Formato Salida
     #kill_process_libreoffice()
-    subprocess.Popen("libreoffice --headless --invisible --convert-to {} {} --outdir {} ".format(format_output, archivo_resultado, carpeta) ,shell=True)
+    subprocess.run(
+        "soffice --headless --invisible --convert-to {} {} --outdir {} ".format(format_output, archivo_resultado, carpeta),
+        shell=True,
+        check=True,
+        env={"HOME": carpeta},
+    )
 
     # Ya esta creado documento en formato salida?
     while not os.path.isfile(archivo_resultado_transformado):
