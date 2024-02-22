@@ -23,6 +23,7 @@
     'depends': [
         'base',
         'hr',
+        'hr_contract',
     ],
 
     # always loaded
