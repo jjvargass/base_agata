@@ -24,6 +24,7 @@
         'base',
         'hr',
         'hr_contract',
+        'crm',
     ],
 
     # always loaded
