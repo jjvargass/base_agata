@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': "base_agata",
-
+    'icon': '/base_agata/static/description/icon.png',
     'summary': """
         Short (1 phrase/line) summary of the module's purpose, used as
         subtitle on modules listing or apps.openerp.com""",
@@ -29,8 +29,10 @@
 
     # always loaded
     'data': [
-        #'security/ir.model.access.csv',
+        'security/ir.model.access.csv',
         #'views/hr_view.xml',
+        'views/crm_lead_agata_view.xml',
+        'views/crm_lead_agata_menu_view.xml',
         'data/hr.department.csv',
         'data/hr.job.csv',
     ],

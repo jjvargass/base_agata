@@ -1,2 +1,6 @@
 id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_base_agata_base_agata,base_agata.base_agata,model_base_agata_base_agata,base.group_user,1,1,1,1
+access_crm_lead_business_line,aceeso para modelo crm.lead.business.line,model_crm_lead_business_line,sales_team.group_sale_salesman,1,1,1,1
+access_crm_lead_type_solution,acceso para modelo crm.lead.type.solution,model_crm_lead_type_solution,sales_team.group_sale_salesman,1,1,1,1
+access_crm_lead_ally,acceso para modelo crm.lead.ally,model_crm_lead_ally,sales_team.group_sale_salesman,1,1,1,1
+access_crm_lead_strategy,acceso para modelo crm.lead.strategy,model_crm_lead_strategy,sales_team.group_sale_salesman,1,1,1,1
+access_crm_lead_budget,acceso para modelo crm.lead.budget,model_crm_lead_budget,sales_team.group_sale_salesman,1,1,1,1

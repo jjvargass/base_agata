@@ -1,0 +1,51 @@
+<odoo>
+  <data>
+
+    <menuitem
+        id="sub_menu_crm_lead_agata"
+        name="Agata"
+        parent="crm.crm_menu_config"
+        sequence="100"
+        groups="sales_team.group_sale_manager"/>
+
+      <menuitem
+          id="menu_crm_lead_stage_act"
+          name="Lineas de Negocio"
+          sequence="0"
+          parent="sub_menu_crm_lead_agata"
+          action="base_agata.crm_lead_business_line_action_window"
+          groups="sales_team.group_sale_manager"/>
+
+      <menuitem
+          id="menu_crm_lead_type_solution"
+          name="Tipo de Solución"
+          sequence="0"
+          parent="sub_menu_crm_lead_agata"
+          action="base_agata.crm_lead_type_solution_action_window"
+          groups="sales_team.group_sale_manager"/>
+
+      <menuitem
+          id="menu_crm_lead_ally"
+          name="Aliado"
+          sequence="0"
+          parent="sub_menu_crm_lead_agata"
+          action="base_agata.crm_lead_ally_action_window"
+          groups="sales_team.group_sale_manager"/>
+
+      <menuitem
+          id="menu_crm_lead_strategy"
+          name="Estrategia"
+          sequence="0"
+          parent="sub_menu_crm_lead_agata"
+          action="base_agata.crm_lead_strategy_action_window"
+          groups="sales_team.group_sale_manager"/>
+
+      <menuitem
+          id="menu_crm_lead_budget"
+          name="Presupuesto"
+          sequence="0"
+          parent="sub_menu_crm_lead_agata"
+          action="base_agata.crm_lead_budget_action_window"
+          groups="sales_team.group_sale_manager"/>
+  </data>
+</odoo>
