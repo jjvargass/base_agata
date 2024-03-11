@@ -36,6 +36,11 @@
         'views/crm_lead_view.xml',
         'data/hr.department.csv',
         'data/hr.job.csv',
+        'data/crm.lead.ally.csv',
+        'data/crm.lead.budget.csv',
+        'data/crm.lead.business.line.csv',
+        'data/crm.lead.strategy.csv',
+        'data/crm.lead.type.solution.csv',
     ],
     # only loaded in demonstration mode
     'demo': [
