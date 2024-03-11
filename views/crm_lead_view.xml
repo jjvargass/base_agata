@@ -1,0 +1,20 @@
+<odoo>
+  <data>
+
+    <record id="base_agata_crm_lead_view_form" model="ir.ui.view" >
+      <field name="name">base_agata_crm_lead_view_form</field>
+      <field name="model">crm.lead</field>
+      <field name="inherit_id" ref="crm.crm_lead_view_form"/>
+      <field name="arch" type="xml">
+          <field name="tag_ids" position="after">
+            <field name="liena_negocio" optional="show"/>
+            <field name="tipo_solucion" optional="show"/>
+            <field name="aliado" optional="show"/>
+            <field name="estrategia" optional="show"/>
+            <field name="presupuesto" optional="show"/>
+          </field>
+      </field>
+    </record>
+
+  </data>
+</odoo>

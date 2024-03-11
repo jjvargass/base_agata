@@ -33,6 +33,7 @@
         #'views/hr_view.xml',
         'views/crm_lead_agata_view.xml',
         'views/crm_lead_agata_menu_view.xml',
+        'views/crm_lead_view.xml',
         'data/hr.department.csv',
         'data/hr.job.csv',
     ],
