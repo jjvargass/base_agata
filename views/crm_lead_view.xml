@@ -7,11 +7,11 @@
       <field name="inherit_id" ref="crm.crm_lead_view_form"/>
       <field name="arch" type="xml">
           <field name="tag_ids" position="after">
-            <field name="liena_negocio" optional="show"/>
-            <field name="tipo_solucion" optional="show"/>
-            <field name="aliado" optional="show"/>
-            <field name="estrategia" optional="show"/>
-            <field name="presupuesto" optional="show"/>
+            <field name="linea_negocio_id" optional="show"/>
+            <field name="tipo_solucion_id" optional="show"/>
+            <field name="aliado_id" optional="show"/>
+            <field name="estrategia_id" optional="show"/>
+            <field name="presupuesto_id" optional="show"/>
           </field>
       </field>
     </record>
