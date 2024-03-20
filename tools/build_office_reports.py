@@ -64,7 +64,7 @@ def create_office_reports(self, dict_data, name_doc_download, format_output, nam
     with open(archivo_resultado_transformado, "rb") as reporte:
         encoded_report = base64.b64encode(reporte.read())
     
-    # Elimina archivos creados en sisco y retorna archivo codificado 
+    # Elimina archivos creados en disco y retorna archivo codificado
     if(encoded_report):
         os.remove(archivo_resultado)
         os.remove(archivo_resultado_transformado)
